@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsiA99
-- 👀 I’m interested in cyber security and AI.
+- 👀 I’m interested in software development, cyber security and AI.
 - 🌱 I’m currently learning at University of Moratuwa 
-- 💞️ I’m looking to collaborate on cyber security and AI team
+- 💞️ I’m looking to collaborate on software development, cyber security and AI team
 - 📫 How to reach me jpisiwarani@gmail.com 
 
 <!---
