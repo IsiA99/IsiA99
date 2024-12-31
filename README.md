@@ -18,7 +18,7 @@ Hi there! I'm **Isiwarani Jayasekara**, a driven **C# Developer** and **Machine 
 - **Languages**: C#, Python, JavaScript, Java, HTML, CSS, C
 - **Frameworks**: .NET Framework  
 - **Databases**: MS SQL Server, MySQL, MongoDB  
-- **Other Skills**: Data Preprocessing, Feature Engineering, REST APIs, Test Automation with Playwright and Cucumber  
+- **Other Skills**: Jupyter Notebook, Google Colab, Data Preprocessing, Feature Engineering, REST APIs, Test Automation with Playwright and Cucumber  
 
 ---
 
