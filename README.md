@@ -2,7 +2,7 @@
 
 # 👩‍💻 About Me
 
-Hi there! I'm **Isiwarani Jayasekara**, a driven **Backend Developer** and **Machine Learning Enthusiast** with a passion for turning innovative ideas into impactful solutions.
+Hi there! I'm **Isiwarani Jayasekara**
 ---
 
 ## 🌟 What I Do
